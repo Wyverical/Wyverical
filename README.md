@@ -1,5 +1,5 @@
 
-<p align="center">&nbsp;<img align="center" height="405" width="719" src="https://github.com/Wyverical/Wyverical/blob/main/Data%20Doctor%20(1).gif" /> </p> 
+<p align="center">&nbsp;<img align="center" height="396" width="704" src="https://github.com/Wyverical/Wyverical/blob/main/Data%20Doctor.gif" /> </p> 
 
 
 <h1 align="center"> Hi there 👋, I'm Sarvesh Kishor Talele </h1>
