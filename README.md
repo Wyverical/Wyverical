@@ -1,8 +1,8 @@
 
-<img align="center" height="550" width="1080" src="hhttps://github.com/Wyverical/Wyverical/blob/main/Data%20Doctor.gif" />
+<img align="center" height="500" width="1080" src="https://github.com/Wyverical/Wyverical/blob/main/Data%20Doctor.gif" />
 
 
-### Hi there 👋, I'm Sarvesh Kishor Talele
+# Hi there 👋, I'm Sarvesh Kishor Talele
 #### Aspiring to be a Data Scientist
 I'm Sarvesh Talele, I specialize in three major aspects: Research and Development, Data Analytics, and Python. As a result of developing these abilities, I was able to participate in various hackathons and secure a Data Engineer Internship at Learnin.
 
