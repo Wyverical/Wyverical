@@ -11,7 +11,6 @@ I'm Sarvesh Talele, I specialize in three major aspects: Research and Developmen
 
 Skills: Python / Excel / Tableau / SQL
 
-- 🔭 I’m currently working on **[Blog: Best 20 Blogs for Data Science and Data Analysis](https://wyverical.medium.com/best-20-blogs-for-data-science-and-data-analysis-c51d04358ec7)** 
 - 🌱 I’m currently learning **Data Science** 
 
 ![Profile views](https://gpvc.arturio.dev/Wyverical)
