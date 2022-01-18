@@ -20,6 +20,8 @@ Skills: Python / Excel / Tableau / SQL
 <p align="center">
   <a href = "https://www.linkedin.com/in/sarvesh-talele-320356196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://wyverical.medium.com/"><img height="50" width="50"src="https://github.com/Wyverical/Wyverical/blob/main/medium.PNG"/></a>
+  <a href = "https://www.kaggle.com/sarveshtalele"><img height="50" width="50"src="https://github.com/Wyverical/Mercedes-Benz-Car-Price-Prediction-App/blob/main/kaggle.jpg"/></a>
+  
 </p>
 
 <br>
