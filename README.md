@@ -3,7 +3,7 @@
 
 
 <h1 align="center"> Hi there 👋, I'm Sarvesh Kishor Talele </h1>
-<h3 align="center"> Aspiring to be a Data Scientist </h3>
+
 
 <br>
 
@@ -11,7 +11,7 @@ I'm Sarvesh Talele, I specialize in three major aspects: Research and Developmen
 
 Skills: Python / Excel / Tableau / SQL
 
-- 🌱 I’m currently learning **Data Science** 
+- 🌱 I’m currently learning **Data Science**, **Blockchain** 
 
 ![Profile views](https://gpvc.arturio.dev/Wyverical)
 
