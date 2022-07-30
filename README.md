@@ -1,7 +1,11 @@
 
 [![Sarvesh ](https://github.com/Wyverical/Wyverical/blob/main/banner.png)](https://sarveshtalele.carrd.co/)
-<h1 align="center"> Hi there 👋, I'm Sarvesh Kishor Talele </h1>
 
+<p align="center">
+(Click on the image to know more)
+</p>
+
+<h1 align="center"> Hi there 👋, I'm Sarvesh Kishor Talele </h1>
 
 <br>
 
