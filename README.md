@@ -1,7 +1,5 @@
 
-<p align="center">&nbsp;<img align="center" height="400" width="800" src="https://github.com/Wyverical/Wyverical/blob/main/banner.png" /> </p> 
-
-
+[![Sarvesh ](https://github.com/Wyverical/Wyverical/blob/main/banner.png)](https://sarveshtalele.carrd.co/)
 <h1 align="center"> Hi there 👋, I'm Sarvesh Kishor Talele </h1>
 
 
