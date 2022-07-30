@@ -1,5 +1,5 @@
 
-<p align="center">&nbsp;<img align="center" height="396" width="704" src="https://github.com/Wyverical/Wyverical/blob/main/profilepicture.png" /> </p> 
+<p align="center">&nbsp;<img align="center" height="600" width="800" src="https://github.com/Wyverical/Wyverical/blob/main/profilepicture.png" /> </p> 
 
 
 <h1 align="center"> Hi there 👋, I'm Sarvesh Kishor Talele </h1>
