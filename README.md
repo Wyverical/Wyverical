@@ -1,5 +1,5 @@
 
-[![Sarvesh ](https://github.com/Wyverical/Wyverical/blob/main/banner.png)](https://sarveshtalele.carrd.co/)
+[![Sarvesh ](https://github.com/Wyverical/Wyverical/blob/main/banner.png)](https://www.talelesarvesh.de/)
 
 <p align="center">
 (Click on the image to know more)
