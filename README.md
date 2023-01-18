@@ -52,8 +52,5 @@ Skills: Python / Excel / Tableau / SQL
 
 <h2 align="center"> :bee: Contributions: </h2>
 
-<br/>
-<a href="https://github.com/Wyverical/github-readme-activity-graph"><img alt="Sarvesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Wyverical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 
